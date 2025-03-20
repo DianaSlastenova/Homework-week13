@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+p {
+  font-weight: bold;
+  font-size: 18px;
+}
+.redtext {
+  color: red;
+}
+button {
+  background-color: green;
+  color: white;
+  width: 120px;
+  height: 28px;
+  border: none;
+  font-size: 14px;
+  border-radius: 6px;
+}
+input {
+  height: 25px;
+  border-radius: 6px;
+}
